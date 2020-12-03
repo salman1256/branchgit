@@ -71,6 +71,7 @@
     <Content Include="Contact.html" />
     <Content Include="Home.html" />
     <Content Include="Login.html" />
+    <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
